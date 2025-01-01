@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.logo{
+    width: 5%;
+    height: 5%;
+}
+
+.card-img-top {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: contain !important;
+    padding-top: 10px !important;
+    background-color: white !important;
+}
+
